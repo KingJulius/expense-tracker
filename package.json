@@ -1,5 +1,6 @@
 {
-  "name": "https://kingjulius.github.io/expense-tracker",
+  "name": "expense-tracker",
+  "homepage": "https://kingjulius.github.io/expense-tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
