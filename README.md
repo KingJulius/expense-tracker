@@ -54,7 +54,7 @@
 
 ## 🤝 Contributing
 - Contributions, issues, and feature requests are welcome!
-- Feel free to check the [issues page](https://github.com/KingJulius/KingJulius.github.io/issues).
+- Feel free to check the [issues page](https://github.com/KingJulius/expense-tracker/issues).
 
 # Show your support
 Give a ⭐ if you like this project!
